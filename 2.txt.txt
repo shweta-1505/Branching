@@ -1,1 +1,2 @@
 This is file 2.txt of master
+of master but now in mybranch
